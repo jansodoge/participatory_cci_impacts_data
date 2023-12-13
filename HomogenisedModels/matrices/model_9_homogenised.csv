@@ -1,0 +1,8 @@
+"","Drought","Surface water level","Water use restrictions","Irrigation water availability","Economic loss","Temperature","Irrigation infrastructure"
+"Drought","","1","","","","","1"
+"Surface water level","","","1","","","",""
+"Water use restrictions","","","","1","","",""
+"Irrigation water availability","","","","","2","",""
+"Economic loss","","","","","1","",""
+"Temperature","2","","","","","",""
+"Irrigation infrastructure","","","","1","1","",""

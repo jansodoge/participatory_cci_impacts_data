@@ -1,0 +1,31 @@
+{
+    "id": "D238F80B",
+    "path": "~/GitHub/participatory_cci_impacts_data/Analysis/analysis_main.qmd",
+    "project_path": "analysis_main.qmd",
+    "type": "quarto_markdown",
+    "hash": "118343848",
+    "contents": "",
+    "dirty": false,
+    "created": 1699887406800.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "0",
+        "cursorPosition": "153,51",
+        "scrollLine": "132",
+        "rmdVisualModeLocation": "7454:3102.222412109375",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1702140469,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1702140469475,
+    "read_only": false,
+    "read_only_alternatives": []
+}

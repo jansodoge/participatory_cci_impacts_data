@@ -1,0 +1,10 @@
+"0","datafrane_figure <- variables %>% 
+  group_by(map_id) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  dplyr::select(map_id, n) %>% 
+  dplyr::bind_cols(as_tibble(new_items_count))
+"
+"2","Error in variables %>% group_by(map_id) %>% count() %>% arrange(desc(n)) %>%  : 
+  could not find function ""%>%""
+"

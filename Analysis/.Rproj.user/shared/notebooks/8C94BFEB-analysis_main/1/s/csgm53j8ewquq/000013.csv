@@ -1,0 +1,8 @@
+"0","node_id <- ""Snow""  # Replace with your specific node identifier"
+"0",""
+"0","# Extract the ego network"
+"0","ego_net <- make_ego_graph(full_model, order = 1, nodes = node_id, mode = ""all"")[[1]]"
+"0",""
+"0","# Plot the ego network"
+"0","plot(ego_net, vertex.color = ""skyblue"", vertex.size = 10, "
+"0","     vertex.label.color = ""black"", edge.color = ""grey"")"
